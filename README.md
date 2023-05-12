@@ -1,2 +1,0 @@
-# CodigoPy
-Código da escola
